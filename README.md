@@ -230,7 +230,7 @@ ollama pull qwen2.5vl:7b
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone hhttps://github.com/JB-SelfCompany/Ollama-TG-bot
+git clone https://github.com/JB-SelfCompany/Ollama-TG-bot
 cd ollama-tg-bot
 ```
 
