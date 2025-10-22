@@ -230,8 +230,8 @@ ollama pull qwen2.5vl:7b
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/yourusername/ollama-telegram-bot.git
-cd ollama-telegram-bot
+git clone hhttps://github.com/JB-SelfCompany/Ollama-TG-bot
+cd ollama-tg-bot
 ```
 
 ### 2. Создайте виртуальное окружение
@@ -664,7 +664,7 @@ ollama>=0.1.0
 
 Если у вас есть вопросы или предложения:
 
-- Создайте [Issue](https://github.com/yourusername/ollama-telegram-bot/issues)
+- Создайте [Issue](https://github.com/JB-SelfCompany/Ollama-TG-bot/issues)
 - Pull Request всегда приветствуются
 
 ## 🗺️ Roadmap
